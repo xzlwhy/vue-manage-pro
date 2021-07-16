@@ -22,3 +22,11 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+##功能包括如下
+
+```
+封装loading效果
+自定义指令-输入框防抖
+OSS上传文件
+```
