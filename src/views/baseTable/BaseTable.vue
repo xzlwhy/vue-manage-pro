@@ -1,5 +1,6 @@
 <template>
   <div>
+		基础
     <SimpleTable :tableConfig="tableConfig" :tableData="tableData" />
     <SimpleTable :tableConfig="tableConfig2" :tableData="tableData2" />
     <Pagination
